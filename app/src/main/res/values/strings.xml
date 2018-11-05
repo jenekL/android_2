@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_2</string>
+    <string name="action_item1">Вторая активность</string>
+    <string name="action_item2">Текстовая активность</string>
+    <string name="action_item3">Кнопочная активность</string>
+    <string name="action_item4">Пятая активность</string>
+</resources>
